@@ -1,337 +1,450 @@
-{'padding_count': 0, 'loss': 4.9228, 'learning_rate': 1e-05, 'epoch': 0.25}
-{'padding_count': 0, 'loss': 4.2144, 'learning_rate': 2.25e-05, 'epoch': 0.5}
-{'padding_count': 0, 'loss': 3.8926, 'learning_rate': 3.5e-05, 'epoch': 0.75}
-{'padding_count': 0, 'loss': 3.7254, 'learning_rate': 4.75e-05, 'epoch': 1.0}
-{'eval_loss': 3.4034085273742676, 'eval_runtime': 0.9475, 'eval_samples_per_second': 287.084, 'eval_steps_per_second': 14.776, 'epoch': 1.0}
-{'padding_count': 0, 'loss': 3.6197, 'learning_rate': 6e-05, 'epoch': 1.25}
-{'padding_count': 0, 'loss': 3.5957, 'learning_rate': 7.25e-05, 'epoch': 1.5}
-{'padding_count': 0, 'loss': 3.4436, 'learning_rate': 8.5e-05, 'epoch': 1.75}
-{'padding_count': 0, 'loss': 3.3653, 'learning_rate': 9.75e-05, 'epoch': 2.0}
-{'eval_loss': 3.253948450088501, 'eval_runtime': 0.9485, 'eval_samples_per_second': 286.759, 'eval_steps_per_second': 14.76, 'epoch': 2.0}
-{'padding_count': 0, 'loss': 3.2756, 'learning_rate': 9.888888888888889e-05, 'epoch': 2.25}
-{'padding_count': 0, 'loss': 3.3025, 'learning_rate': 9.75e-05, 'epoch': 2.5}
-{'padding_count': 0, 'loss': 3.131, 'learning_rate': 9.611111111111112e-05, 'epoch': 2.75}
-{'padding_count': 0, 'loss': 3.0558, 'learning_rate': 9.472222222222222e-05, 'epoch': 3.0}
-{'eval_loss': 3.2026424407958984, 'eval_runtime': 0.9514, 'eval_samples_per_second': 285.881, 'eval_steps_per_second': 14.714, 'epoch': 3.0}
-{'padding_count': 0, 'loss': 2.9609, 'learning_rate': 9.333333333333334e-05, 'epoch': 3.25}
-{'padding_count': 0, 'loss': 3.0449, 'learning_rate': 9.194444444444445e-05, 'epoch': 3.5}
-{'padding_count': 0, 'loss': 2.869, 'learning_rate': 9.055555555555556e-05, 'epoch': 3.75}
-{'padding_count': 0, 'loss': 2.829, 'learning_rate': 8.916666666666667e-05, 'epoch': 4.0}
-{'eval_loss': 3.2090184688568115, 'eval_runtime': 0.955, 'eval_samples_per_second': 284.814, 'eval_steps_per_second': 14.66, 'epoch': 4.0}
-{'padding_count': 0, 'loss': 2.7098, 'learning_rate': 8.777777777777778e-05, 'epoch': 4.25}
-{'padding_count': 0, 'loss': 2.8365, 'learning_rate': 8.63888888888889e-05, 'epoch': 4.5}
-{'padding_count': 0, 'loss': 2.6874, 'learning_rate': 8.5e-05, 'epoch': 4.75}
-{'padding_count': 0, 'loss': 2.6578, 'learning_rate': 8.361111111111111e-05, 'epoch': 5.0}
-{'eval_loss': 3.222593069076538, 'eval_runtime': 0.9829, 'eval_samples_per_second': 276.743, 'eval_steps_per_second': 14.244, 'epoch': 5.0}
-{'padding_count': 0, 'loss': 2.5199, 'learning_rate': 8.222222222222222e-05, 'epoch': 5.25}
-{'padding_count': 0, 'loss': 2.6537, 'learning_rate': 8.083333333333334e-05, 'epoch': 5.5}
-{'padding_count': 0, 'loss': 2.5077, 'learning_rate': 7.944444444444444e-05, 'epoch': 5.75}
-{'padding_count': 0, 'loss': 2.4903, 'learning_rate': 7.819444444444445e-05, 'epoch': 6.0}
-{'eval_loss': 3.2394659519195557, 'eval_runtime': 0.9664, 'eval_samples_per_second': 281.464, 'eval_steps_per_second': 14.487, 'epoch': 6.0}
-{'padding_count': 0, 'loss': 2.3576, 'learning_rate': 7.680555555555556e-05, 'epoch': 6.25}
-{'padding_count': 0, 'loss': 2.4979, 'learning_rate': 7.541666666666667e-05, 'epoch': 6.5}
-{'padding_count': 0, 'loss': 2.3623, 'learning_rate': 7.402777777777779e-05, 'epoch': 6.75}
-{'padding_count': 0, 'loss': 2.362, 'learning_rate': 7.263888888888889e-05, 'epoch': 7.0}
-{'eval_loss': 3.3015003204345703, 'eval_runtime': 0.9792, 'eval_samples_per_second': 277.766, 'eval_steps_per_second': 14.297, 'epoch': 7.0}
-{'padding_count': 0, 'loss': 2.2079, 'learning_rate': 7.125000000000001e-05, 'epoch': 7.25}
-{'padding_count': 0, 'loss': 2.371, 'learning_rate': 6.986111111111112e-05, 'epoch': 7.5}
-{'padding_count': 0, 'loss': 2.2185, 'learning_rate': 6.847222222222222e-05, 'epoch': 7.75}
-{'padding_count': 0, 'loss': 2.235, 'learning_rate': 6.708333333333333e-05, 'epoch': 8.0}
-{'eval_loss': 3.3406667709350586, 'eval_runtime': 0.9572, 'eval_samples_per_second': 284.155, 'eval_steps_per_second': 14.626, 'epoch': 8.0}
-{'padding_count': 0, 'loss': 2.074, 'learning_rate': 6.569444444444445e-05, 'epoch': 8.25}
-{'padding_count': 0, 'loss': 2.2419, 'learning_rate': 6.430555555555557e-05, 'epoch': 8.5}
-{'padding_count': 0, 'loss': 2.0991, 'learning_rate': 6.291666666666667e-05, 'epoch': 8.75}
-{'padding_count': 0, 'loss': 2.1077, 'learning_rate': 6.152777777777778e-05, 'epoch': 9.0}
-{'eval_loss': 3.4073073863983154, 'eval_runtime': 0.9547, 'eval_samples_per_second': 284.905, 'eval_steps_per_second': 14.664, 'epoch': 9.0}
-{'padding_count': 0, 'loss': 1.9344, 'learning_rate': 6.013888888888889e-05, 'epoch': 9.25}
-{'padding_count': 0, 'loss': 2.1167, 'learning_rate': 5.8750000000000005e-05, 'epoch': 9.5}
-{'padding_count': 0, 'loss': 1.9855, 'learning_rate': 5.736111111111111e-05, 'epoch': 9.75}
-{'padding_count': 0, 'loss': 1.9941, 'learning_rate': 5.5972222222222224e-05, 'epoch': 10.0}
-{'eval_loss': 3.4517085552215576, 'eval_runtime': 0.9889, 'eval_samples_per_second': 275.041, 'eval_steps_per_second': 14.157, 'epoch': 10.0}
-{'padding_count': 0, 'loss': 1.8365, 'learning_rate': 5.458333333333333e-05, 'epoch': 10.25}
-{'padding_count': 0, 'loss': 1.9978, 'learning_rate': 5.319444444444445e-05, 'epoch': 10.5}
-{'padding_count': 0, 'loss': 1.8982, 'learning_rate': 5.180555555555556e-05, 'epoch': 10.75}
-{'padding_count': 0, 'loss': 1.8752, 'learning_rate': 5.041666666666667e-05, 'epoch': 11.0}
-{'eval_loss': 3.511864185333252, 'eval_runtime': 0.9548, 'eval_samples_per_second': 284.888, 'eval_steps_per_second': 14.663, 'epoch': 11.0}
-{'padding_count': 0, 'loss': 1.7306, 'learning_rate': 4.902777777777778e-05, 'epoch': 11.25}
-{'padding_count': 0, 'loss': 1.9011, 'learning_rate': 4.7638888888888887e-05, 'epoch': 11.5}
-{'padding_count': 0, 'loss': 1.7912, 'learning_rate': 4.6250000000000006e-05, 'epoch': 11.75}
-{'padding_count': 0, 'loss': 1.79, 'learning_rate': 4.486111111111111e-05, 'epoch': 12.0}
-{'eval_loss': 3.5581531524658203, 'eval_runtime': 0.9729, 'eval_samples_per_second': 279.586, 'eval_steps_per_second': 14.39, 'epoch': 12.0}
-{'padding_count': 0, 'loss': 1.6394, 'learning_rate': 4.3472222222222225e-05, 'epoch': 12.25}
-{'padding_count': 0, 'loss': 1.8235, 'learning_rate': 4.208333333333334e-05, 'epoch': 12.5}
-{'padding_count': 0, 'loss': 1.7126, 'learning_rate': 4.0694444444444444e-05, 'epoch': 12.75}
-{'padding_count': 0, 'loss': 1.7182, 'learning_rate': 3.9305555555555556e-05, 'epoch': 13.0}
-{'eval_loss': 3.593632936477661, 'eval_runtime': 0.9862, 'eval_samples_per_second': 275.819, 'eval_steps_per_second': 14.197, 'epoch': 13.0}
-{'padding_count': 0, 'loss': 1.5638, 'learning_rate': 3.791666666666667e-05, 'epoch': 13.25}
-{'padding_count': 0, 'loss': 1.7495, 'learning_rate': 3.6527777777777775e-05, 'epoch': 13.5}
-{'padding_count': 0, 'loss': 1.6476, 'learning_rate': 3.513888888888889e-05, 'epoch': 13.75}
-{'padding_count': 0, 'loss': 1.6364, 'learning_rate': 3.375000000000001e-05, 'epoch': 14.0}
-{'eval_loss': 3.612968921661377, 'eval_runtime': 0.9584, 'eval_samples_per_second': 283.802, 'eval_steps_per_second': 14.607, 'epoch': 14.0}
-{'padding_count': 0, 'loss': 1.4886, 'learning_rate': 3.236111111111111e-05, 'epoch': 14.25}
-{'padding_count': 0, 'loss': 1.6649, 'learning_rate': 3.0972222222222226e-05, 'epoch': 14.5}
-{'padding_count': 0, 'loss': 1.5607, 'learning_rate': 2.9583333333333335e-05, 'epoch': 14.75}
-{'padding_count': 0, 'loss': 1.5657, 'learning_rate': 2.8194444444444445e-05, 'epoch': 15.0}
-{'eval_loss': 3.655233383178711, 'eval_runtime': 0.9683, 'eval_samples_per_second': 280.904, 'eval_steps_per_second': 14.458, 'epoch': 15.0}
-{'padding_count': 0, 'loss': 1.4292, 'learning_rate': 2.6805555555555557e-05, 'epoch': 15.25}
-{'padding_count': 0, 'loss': 1.6123, 'learning_rate': 2.5416666666666667e-05, 'epoch': 15.5}
-{'padding_count': 0, 'loss': 1.5081, 'learning_rate': 2.402777777777778e-05, 'epoch': 15.75}
-{'padding_count': 0, 'loss': 1.5048, 'learning_rate': 2.263888888888889e-05, 'epoch': 16.0}
-{'eval_loss': 3.6979854106903076, 'eval_runtime': 0.9701, 'eval_samples_per_second': 280.398, 'eval_steps_per_second': 14.432, 'epoch': 16.0}
-{'padding_count': 0, 'loss': 1.3679, 'learning_rate': 2.125e-05, 'epoch': 16.25}
-{'padding_count': 0, 'loss': 1.5696, 'learning_rate': 1.986111111111111e-05, 'epoch': 16.5}
-{'padding_count': 0, 'loss': 1.4713, 'learning_rate': 1.8472222222222224e-05, 'epoch': 16.75}
-{'padding_count': 0, 'loss': 1.4578, 'learning_rate': 1.7083333333333333e-05, 'epoch': 17.0}
-{'eval_loss': 3.7203049659729004, 'eval_runtime': 0.9583, 'eval_samples_per_second': 283.848, 'eval_steps_per_second': 14.61, 'epoch': 17.0}
-{'padding_count': 0, 'loss': 1.3323, 'learning_rate': 1.5694444444444446e-05, 'epoch': 17.25}
-{'padding_count': 0, 'loss': 1.5259, 'learning_rate': 1.4305555555555555e-05, 'epoch': 17.5}
-{'padding_count': 0, 'loss': 1.4157, 'learning_rate': 1.2916666666666668e-05, 'epoch': 17.75}
-{'padding_count': 0, 'loss': 1.4267, 'learning_rate': 1.1527777777777779e-05, 'epoch': 18.0}
-{'eval_loss': 3.7317733764648438, 'eval_runtime': 0.9789, 'eval_samples_per_second': 277.859, 'eval_steps_per_second': 14.302, 'epoch': 18.0}
-{'padding_count': 0, 'loss': 1.2872, 'learning_rate': 1.013888888888889e-05, 'epoch': 18.25}
-{'padding_count': 0, 'loss': 1.4744, 'learning_rate': 8.75e-06, 'epoch': 18.5}
-{'padding_count': 0, 'loss': 1.3902, 'learning_rate': 7.361111111111112e-06, 'epoch': 18.75}
-{'padding_count': 0, 'loss': 1.3941, 'learning_rate': 5.972222222222223e-06, 'epoch': 19.0}
-{'eval_loss': 3.7390804290771484, 'eval_runtime': 0.9571, 'eval_samples_per_second': 284.206, 'eval_steps_per_second': 14.628, 'epoch': 19.0}
-{'padding_count': 0, 'loss': 1.2718, 'learning_rate': 4.583333333333333e-06, 'epoch': 19.25}
-{'padding_count': 0, 'loss': 1.4643, 'learning_rate': 3.1944444444444443e-06, 'epoch': 19.5}
-{'padding_count': 0, 'loss': 1.3708, 'learning_rate': 1.8055555555555555e-06, 'epoch': 19.75}
-{'padding_count': 0, 'loss': 1.3708, 'learning_rate': 4.1666666666666667e-07, 'epoch': 20.0}
-{'eval_loss': 3.7241744995117188, 'eval_runtime': 0.9609, 'eval_samples_per_second': 283.07, 'eval_steps_per_second': 14.57, 'epoch': 20.0}
-{'train_runtime': 751.4181, 'train_samples_per_second': 33.457, 'train_steps_per_second': 1.065, 'train_loss': 2.1839250242710113, 'epoch': 20.0}
+{'padding_count': 0, 'loss': 4.9219, 'learning_rate': 1.2658227848101265e-06, 'epoch': 0.06}
+{'padding_count': 0, 'loss': 4.8369, 'learning_rate': 2.848101265822785e-06, 'epoch': 0.13}
+{'padding_count': 0, 'loss': 4.3921, 'learning_rate': 4.430379746835443e-06, 'epoch': 0.19}
+{'padding_count': 0, 'loss': 4.2161, 'learning_rate': 6.012658227848101e-06, 'epoch': 0.25}
+{'padding_count': 0, 'loss': 3.8826, 'learning_rate': 7.5949367088607605e-06, 'epoch': 0.32}
+{'padding_count': 0, 'loss': 3.8439, 'learning_rate': 9.177215189873418e-06, 'epoch': 0.38}
+{'padding_count': 0, 'loss': 3.9312, 'learning_rate': 1.0759493670886076e-05, 'epoch': 0.44}
+{'padding_count': 0, 'loss': 3.8126, 'learning_rate': 1.2341772151898735e-05, 'epoch': 0.51}
+{'padding_count': 0, 'loss': 3.7289, 'learning_rate': 1.3924050632911393e-05, 'epoch': 0.57}
+{'padding_count': 0, 'loss': 3.7879, 'learning_rate': 1.550632911392405e-05, 'epoch': 0.63}
+{'padding_count': 0, 'loss': 3.681, 'learning_rate': 1.7088607594936708e-05, 'epoch': 0.7}
+{'padding_count': 0, 'loss': 3.7494, 'learning_rate': 1.8670886075949368e-05, 'epoch': 0.76}
+{'padding_count': 0, 'loss': 3.6926, 'learning_rate': 2.0253164556962025e-05, 'epoch': 0.82}
+{'padding_count': 0, 'loss': 3.6516, 'learning_rate': 2.1835443037974685e-05, 'epoch': 0.89}
+{'padding_count': 0, 'loss': 3.6911, 'learning_rate': 2.341772151898734e-05, 'epoch': 0.95}
+{'eval_loss': 3.3200037479400635, 'eval_runtime': 3.9665, 'eval_samples_per_second': 68.574, 'eval_steps_per_second': 7.059, 'epoch': 1.0}
+{'padding_count': 0, 'loss': 3.6656, 'learning_rate': 2.5e-05, 'epoch': 1.01}
+{'padding_count': 0, 'loss': 3.5542, 'learning_rate': 2.6582278481012658e-05, 'epoch': 1.08}
+{'padding_count': 0, 'loss': 3.5044, 'learning_rate': 2.8164556962025318e-05, 'epoch': 1.14}
+{'padding_count': 0, 'loss': 3.4684, 'learning_rate': 2.9746835443037974e-05, 'epoch': 1.2}
+{'padding_count': 0, 'loss': 3.5183, 'learning_rate': 3.132911392405064e-05, 'epoch': 1.27}
+{'padding_count': 0, 'loss': 3.4823, 'learning_rate': 3.291139240506329e-05, 'epoch': 1.33}
+{'padding_count': 0, 'loss': 3.4477, 'learning_rate': 3.449367088607595e-05, 'epoch': 1.39}
+{'padding_count': 0, 'loss': 3.4012, 'learning_rate': 3.607594936708861e-05, 'epoch': 1.46}
+{'padding_count': 0, 'loss': 3.4237, 'learning_rate': 3.765822784810127e-05, 'epoch': 1.52}
+{'padding_count': 0, 'loss': 3.4492, 'learning_rate': 3.924050632911392e-05, 'epoch': 1.58}
+{'padding_count': 0, 'loss': 3.4607, 'learning_rate': 4.0822784810126584e-05, 'epoch': 1.65}
+{'padding_count': 0, 'loss': 3.4138, 'learning_rate': 4.240506329113924e-05, 'epoch': 1.71}
+{'padding_count': 0, 'loss': 3.426, 'learning_rate': 4.3987341772151904e-05, 'epoch': 1.77}
+{'padding_count': 0, 'loss': 3.4047, 'learning_rate': 4.556962025316456e-05, 'epoch': 1.84}
+{'padding_count': 0, 'loss': 3.4472, 'learning_rate': 4.715189873417722e-05, 'epoch': 1.9}
+{'padding_count': 0, 'loss': 3.3981, 'learning_rate': 4.8734177215189874e-05, 'epoch': 1.96}
+{'eval_loss': 3.2161829471588135, 'eval_runtime': 4.018, 'eval_samples_per_second': 67.695, 'eval_steps_per_second': 6.969, 'epoch': 2.0}
+{'padding_count': 0, 'loss': 3.2254, 'learning_rate': 4.99648382559775e-05, 'epoch': 2.03}
+{'padding_count': 0, 'loss': 3.2484, 'learning_rate': 4.9789029535864986e-05, 'epoch': 2.09}
+{'padding_count': 0, 'loss': 3.2074, 'learning_rate': 4.9613220815752464e-05, 'epoch': 2.15}
+{'padding_count': 0, 'loss': 3.169, 'learning_rate': 4.943741209563995e-05, 'epoch': 2.22}
+{'padding_count': 0, 'loss': 3.137, 'learning_rate': 4.9261603375527427e-05, 'epoch': 2.28}
+{'padding_count': 0, 'loss': 3.132, 'learning_rate': 4.908579465541491e-05, 'epoch': 2.34}
+{'padding_count': 0, 'loss': 3.1984, 'learning_rate': 4.8909985935302396e-05, 'epoch': 2.41}
+{'padding_count': 0, 'loss': 3.1464, 'learning_rate': 4.8734177215189874e-05, 'epoch': 2.47}
+{'padding_count': 0, 'loss': 3.1147, 'learning_rate': 4.855836849507735e-05, 'epoch': 2.53}
+{'padding_count': 0, 'loss': 3.1711, 'learning_rate': 4.8382559774964844e-05, 'epoch': 2.59}
+{'padding_count': 0, 'loss': 3.1624, 'learning_rate': 4.820675105485232e-05, 'epoch': 2.66}
+{'padding_count': 0, 'loss': 3.1462, 'learning_rate': 4.80309423347398e-05, 'epoch': 2.72}
+{'padding_count': 0, 'loss': 3.2437, 'learning_rate': 4.785513361462729e-05, 'epoch': 2.78}
+{'padding_count': 0, 'loss': 3.0865, 'learning_rate': 4.767932489451477e-05, 'epoch': 2.85}
+{'padding_count': 0, 'loss': 3.0785, 'learning_rate': 4.7503516174402255e-05, 'epoch': 2.91}
+{'padding_count': 0, 'loss': 3.1816, 'learning_rate': 4.732770745428973e-05, 'epoch': 2.97}
+{'eval_loss': 3.1570780277252197, 'eval_runtime': 4.1164, 'eval_samples_per_second': 66.076, 'eval_steps_per_second': 6.802, 'epoch': 3.0}
+{'padding_count': 0, 'loss': 2.9213, 'learning_rate': 4.715189873417722e-05, 'epoch': 3.04}
+{'padding_count': 0, 'loss': 2.9877, 'learning_rate': 4.69760900140647e-05, 'epoch': 3.1}
+{'padding_count': 0, 'loss': 2.878, 'learning_rate': 4.680028129395218e-05, 'epoch': 3.16}
+{'padding_count': 0, 'loss': 2.8833, 'learning_rate': 4.6624472573839666e-05, 'epoch': 3.23}
+{'padding_count': 0, 'loss': 2.805, 'learning_rate': 4.644866385372715e-05, 'epoch': 3.29}
+{'padding_count': 0, 'loss': 2.9355, 'learning_rate': 4.627285513361463e-05, 'epoch': 3.35}
+{'padding_count': 0, 'loss': 2.7525, 'learning_rate': 4.6097046413502107e-05, 'epoch': 3.42}
+{'padding_count': 0, 'loss': 2.9556, 'learning_rate': 4.5938818565400846e-05, 'epoch': 3.48}
+{'padding_count': 0, 'loss': 2.924, 'learning_rate': 4.576300984528833e-05, 'epoch': 3.54}
+{'padding_count': 0, 'loss': 2.953, 'learning_rate': 4.558720112517581e-05, 'epoch': 3.61}
+{'padding_count': 0, 'loss': 2.9806, 'learning_rate': 4.5411392405063293e-05, 'epoch': 3.67}
+{'padding_count': 0, 'loss': 2.8587, 'learning_rate': 4.523558368495078e-05, 'epoch': 3.73}
+{'padding_count': 0, 'loss': 2.8925, 'learning_rate': 4.5059774964838256e-05, 'epoch': 3.8}
+{'padding_count': 0, 'loss': 2.9546, 'learning_rate': 4.488396624472574e-05, 'epoch': 3.86}
+{'padding_count': 0, 'loss': 2.9442, 'learning_rate': 4.4708157524613226e-05, 'epoch': 3.92}
+{'padding_count': 0, 'loss': 2.9315, 'learning_rate': 4.4532348804500704e-05, 'epoch': 3.99}
+{'eval_loss': 3.142089605331421, 'eval_runtime': 4.058, 'eval_samples_per_second': 67.028, 'eval_steps_per_second': 6.9, 'epoch': 4.0}
+{'padding_count': 0, 'loss': 2.7293, 'learning_rate': 4.435654008438819e-05, 'epoch': 4.05}
+{'padding_count': 0, 'loss': 2.5531, 'learning_rate': 4.418073136427567e-05, 'epoch': 4.11}
+{'padding_count': 0, 'loss': 2.7287, 'learning_rate': 4.400492264416315e-05, 'epoch': 4.18}
+{'padding_count': 0, 'loss': 2.6882, 'learning_rate': 4.382911392405064e-05, 'epoch': 4.24}
+{'padding_count': 0, 'loss': 2.7603, 'learning_rate': 4.3653305203938115e-05, 'epoch': 4.3}
+{'padding_count': 0, 'loss': 2.6624, 'learning_rate': 4.34774964838256e-05, 'epoch': 4.37}
+{'padding_count': 0, 'loss': 2.7228, 'learning_rate': 4.3301687763713085e-05, 'epoch': 4.43}
+{'padding_count': 0, 'loss': 2.6562, 'learning_rate': 4.312587904360056e-05, 'epoch': 4.49}
+{'padding_count': 0, 'loss': 2.6652, 'learning_rate': 4.295007032348805e-05, 'epoch': 4.56}
+{'padding_count': 0, 'loss': 2.6575, 'learning_rate': 4.277426160337553e-05, 'epoch': 4.62}
+{'padding_count': 0, 'loss': 2.721, 'learning_rate': 4.259845288326301e-05, 'epoch': 4.68}
+{'padding_count': 0, 'loss': 2.6727, 'learning_rate': 4.2422644163150495e-05, 'epoch': 4.75}
+{'padding_count': 0, 'loss': 2.7176, 'learning_rate': 4.224683544303797e-05, 'epoch': 4.81}
+{'padding_count': 0, 'loss': 2.6989, 'learning_rate': 4.207102672292546e-05, 'epoch': 4.87}
+{'padding_count': 0, 'loss': 2.7128, 'learning_rate': 4.189521800281294e-05, 'epoch': 4.94}
+{'padding_count': 0, 'loss': 2.739, 'learning_rate': 4.171940928270042e-05, 'epoch': 5.0}
+{'eval_loss': 3.184689521789551, 'eval_runtime': 4.0773, 'eval_samples_per_second': 66.711, 'eval_steps_per_second': 6.867, 'epoch': 5.0}
+{'padding_count': 0, 'loss': 2.5199, 'learning_rate': 4.1543600562587906e-05, 'epoch': 5.06}
+{'padding_count': 0, 'loss': 2.5644, 'learning_rate': 4.136779184247539e-05, 'epoch': 5.13}
+{'padding_count': 0, 'loss': 2.4633, 'learning_rate': 4.119198312236287e-05, 'epoch': 5.19}
+{'padding_count': 0, 'loss': 2.5291, 'learning_rate': 4.1016174402250354e-05, 'epoch': 5.25}
+{'padding_count': 0, 'loss': 2.4856, 'learning_rate': 4.084036568213784e-05, 'epoch': 5.32}
+{'padding_count': 0, 'loss': 2.5405, 'learning_rate': 4.066455696202532e-05, 'epoch': 5.38}
+{'padding_count': 0, 'loss': 2.4522, 'learning_rate': 4.04887482419128e-05, 'epoch': 5.44}
+{'padding_count': 0, 'loss': 2.5731, 'learning_rate': 4.0312939521800286e-05, 'epoch': 5.51}
+{'padding_count': 0, 'loss': 2.4426, 'learning_rate': 4.0137130801687765e-05, 'epoch': 5.57}
+{'padding_count': 0, 'loss': 2.5129, 'learning_rate': 3.996132208157525e-05, 'epoch': 5.63}
+{'padding_count': 0, 'loss': 2.4745, 'learning_rate': 3.978551336146273e-05, 'epoch': 5.7}
+{'padding_count': 0, 'loss': 2.5565, 'learning_rate': 3.960970464135021e-05, 'epoch': 5.76}
+{'padding_count': 0, 'loss': 2.5721, 'learning_rate': 3.94338959212377e-05, 'epoch': 5.82}
+{'padding_count': 0, 'loss': 2.4952, 'learning_rate': 3.9258087201125175e-05, 'epoch': 5.89}
+{'padding_count': 0, 'loss': 2.3902, 'learning_rate': 3.908227848101266e-05, 'epoch': 5.95}
+{'eval_loss': 3.197026014328003, 'eval_runtime': 4.0198, 'eval_samples_per_second': 67.666, 'eval_steps_per_second': 6.966, 'epoch': 6.0}
+{'padding_count': 0, 'loss': 2.5351, 'learning_rate': 3.8906469760900145e-05, 'epoch': 6.01}
+{'padding_count': 0, 'loss': 2.3724, 'learning_rate': 3.873066104078762e-05, 'epoch': 6.08}
+{'padding_count': 0, 'loss': 2.3302, 'learning_rate': 3.855485232067511e-05, 'epoch': 6.14}
+{'padding_count': 0, 'loss': 2.3571, 'learning_rate': 3.837904360056259e-05, 'epoch': 6.2}
+{'padding_count': 0, 'loss': 2.3256, 'learning_rate': 3.820323488045007e-05, 'epoch': 6.27}
+{'padding_count': 0, 'loss': 2.3708, 'learning_rate': 3.8027426160337556e-05, 'epoch': 6.33}
+{'padding_count': 0, 'loss': 2.3392, 'learning_rate': 3.7851617440225034e-05, 'epoch': 6.39}
+{'padding_count': 0, 'loss': 2.2848, 'learning_rate': 3.767580872011252e-05, 'epoch': 6.46}
+{'padding_count': 0, 'loss': 2.3587, 'learning_rate': 3.7500000000000003e-05, 'epoch': 6.52}
+{'padding_count': 0, 'loss': 2.3049, 'learning_rate': 3.732419127988748e-05, 'epoch': 6.58}
+{'padding_count': 0, 'loss': 2.3241, 'learning_rate': 3.7148382559774966e-05, 'epoch': 6.65}
+{'padding_count': 0, 'loss': 2.3852, 'learning_rate': 3.697257383966245e-05, 'epoch': 6.71}
+{'padding_count': 0, 'loss': 2.3365, 'learning_rate': 3.679676511954993e-05, 'epoch': 6.77}
+{'padding_count': 0, 'loss': 2.2479, 'learning_rate': 3.6620956399437414e-05, 'epoch': 6.84}
+{'padding_count': 0, 'loss': 2.3573, 'learning_rate': 3.64451476793249e-05, 'epoch': 6.9}
+{'padding_count': 0, 'loss': 2.3853, 'learning_rate': 3.626933895921238e-05, 'epoch': 6.96}
+{'eval_loss': 3.243009090423584, 'eval_runtime': 4.206, 'eval_samples_per_second': 64.67, 'eval_steps_per_second': 6.657, 'epoch': 7.0}
+{'padding_count': 0, 'loss': 2.2844, 'learning_rate': 3.609353023909986e-05, 'epoch': 7.03}
+{'padding_count': 0, 'loss': 2.1684, 'learning_rate': 3.591772151898735e-05, 'epoch': 7.09}
+{'padding_count': 0, 'loss': 2.1978, 'learning_rate': 3.5741912798874825e-05, 'epoch': 7.15}
+{'padding_count': 0, 'loss': 2.1436, 'learning_rate': 3.556610407876231e-05, 'epoch': 7.22}
+{'padding_count': 0, 'loss': 2.147, 'learning_rate': 3.539029535864979e-05, 'epoch': 7.28}
+{'padding_count': 0, 'loss': 2.2081, 'learning_rate': 3.521448663853727e-05, 'epoch': 7.34}
+{'padding_count': 0, 'loss': 2.1228, 'learning_rate': 3.503867791842476e-05, 'epoch': 7.41}
+{'padding_count': 0, 'loss': 2.2206, 'learning_rate': 3.4862869198312236e-05, 'epoch': 7.47}
+{'padding_count': 0, 'loss': 2.1854, 'learning_rate': 3.468706047819972e-05, 'epoch': 7.53}
+{'padding_count': 0, 'loss': 2.2075, 'learning_rate': 3.4511251758087205e-05, 'epoch': 7.59}
+{'padding_count': 0, 'loss': 2.246, 'learning_rate': 3.4335443037974683e-05, 'epoch': 7.66}
+{'padding_count': 0, 'loss': 2.1648, 'learning_rate': 3.415963431786217e-05, 'epoch': 7.72}
+{'padding_count': 0, 'loss': 2.2459, 'learning_rate': 3.398382559774965e-05, 'epoch': 7.78}
+{'padding_count': 0, 'loss': 2.2826, 'learning_rate': 3.380801687763713e-05, 'epoch': 7.85}
+{'padding_count': 0, 'loss': 2.2253, 'learning_rate': 3.3632208157524616e-05, 'epoch': 7.91}
+{'padding_count': 0, 'loss': 2.0464, 'learning_rate': 3.3456399437412094e-05, 'epoch': 7.97}
+{'eval_loss': 3.336029529571533, 'eval_runtime': 4.0714, 'eval_samples_per_second': 66.808, 'eval_steps_per_second': 6.877, 'epoch': 8.0}
+{'padding_count': 0, 'loss': 2.1199, 'learning_rate': 3.328059071729958e-05, 'epoch': 8.04}
+{'padding_count': 0, 'loss': 2.0409, 'learning_rate': 3.3104781997187064e-05, 'epoch': 8.1}
+{'padding_count': 0, 'loss': 1.8777, 'learning_rate': 3.292897327707454e-05, 'epoch': 8.16}
+{'padding_count': 0, 'loss': 2.0495, 'learning_rate': 3.275316455696203e-05, 'epoch': 8.23}
+{'padding_count': 0, 'loss': 2.0801, 'learning_rate': 3.257735583684951e-05, 'epoch': 8.29}
+{'padding_count': 0, 'loss': 1.962, 'learning_rate': 3.240154711673699e-05, 'epoch': 8.35}
+{'padding_count': 0, 'loss': 2.1286, 'learning_rate': 3.2225738396624475e-05, 'epoch': 8.42}
+{'padding_count': 0, 'loss': 2.0164, 'learning_rate': 3.204992967651196e-05, 'epoch': 8.48}
+{'padding_count': 0, 'loss': 2.0539, 'learning_rate': 3.187412095639944e-05, 'epoch': 8.54}
+{'padding_count': 0, 'loss': 2.0423, 'learning_rate': 3.169831223628692e-05, 'epoch': 8.61}
+{'padding_count': 0, 'loss': 2.0596, 'learning_rate': 3.152250351617441e-05, 'epoch': 8.67}
+{'padding_count': 0, 'loss': 2.0336, 'learning_rate': 3.1346694796061885e-05, 'epoch': 8.73}
+{'padding_count': 0, 'loss': 2.13, 'learning_rate': 3.117088607594937e-05, 'epoch': 8.8}
+{'padding_count': 0, 'loss': 2.1201, 'learning_rate': 3.099507735583685e-05, 'epoch': 8.86}
+{'padding_count': 0, 'loss': 2.0869, 'learning_rate': 3.081926863572433e-05, 'epoch': 8.92}
+{'padding_count': 0, 'loss': 2.0708, 'learning_rate': 3.064345991561182e-05, 'epoch': 8.99}
+{'eval_loss': 3.3715572357177734, 'eval_runtime': 4.1222, 'eval_samples_per_second': 65.984, 'eval_steps_per_second': 6.792, 'epoch': 9.0}
+{'padding_count': 0, 'loss': 1.924, 'learning_rate': 3.0467651195499296e-05, 'epoch': 9.05}
+{'padding_count': 0, 'loss': 1.8783, 'learning_rate': 3.0291842475386778e-05, 'epoch': 9.11}
+{'padding_count': 0, 'loss': 1.9611, 'learning_rate': 3.0116033755274266e-05, 'epoch': 9.18}
+{'padding_count': 0, 'loss': 1.897, 'learning_rate': 2.9940225035161744e-05, 'epoch': 9.24}
+{'padding_count': 0, 'loss': 1.93, 'learning_rate': 2.9764416315049225e-05, 'epoch': 9.3}
+{'padding_count': 0, 'loss': 2.0389, 'learning_rate': 2.9588607594936714e-05, 'epoch': 9.37}
+{'padding_count': 0, 'loss': 1.9505, 'learning_rate': 2.9412798874824195e-05, 'epoch': 9.43}
+{'padding_count': 0, 'loss': 1.9539, 'learning_rate': 2.9236990154711673e-05, 'epoch': 9.49}
+{'padding_count': 0, 'loss': 1.83, 'learning_rate': 2.9061181434599155e-05, 'epoch': 9.56}
+{'padding_count': 0, 'loss': 1.8782, 'learning_rate': 2.8885372714486643e-05, 'epoch': 9.62}
+{'padding_count': 0, 'loss': 1.9885, 'learning_rate': 2.870956399437412e-05, 'epoch': 9.68}
+{'padding_count': 0, 'loss': 1.9533, 'learning_rate': 2.8533755274261602e-05, 'epoch': 9.75}
+{'padding_count': 0, 'loss': 1.8697, 'learning_rate': 2.835794655414909e-05, 'epoch': 9.81}
+{'padding_count': 0, 'loss': 1.9763, 'learning_rate': 2.8182137834036572e-05, 'epoch': 9.87}
+{'padding_count': 0, 'loss': 1.8724, 'learning_rate': 2.800632911392405e-05, 'epoch': 9.94}
+{'padding_count': 0, 'loss': 1.968, 'learning_rate': 2.783052039381153e-05, 'epoch': 10.0}
+{'eval_loss': 3.4201409816741943, 'eval_runtime': 4.1301, 'eval_samples_per_second': 65.858, 'eval_steps_per_second': 6.779, 'epoch': 10.0}
+{'padding_count': 0, 'loss': 1.7844, 'learning_rate': 2.765471167369902e-05, 'epoch': 10.06}
+{'padding_count': 0, 'loss': 1.7854, 'learning_rate': 2.7478902953586498e-05, 'epoch': 10.13}
+{'padding_count': 0, 'loss': 1.7461, 'learning_rate': 2.730309423347398e-05, 'epoch': 10.19}
+{'padding_count': 0, 'loss': 1.7177, 'learning_rate': 2.7127285513361468e-05, 'epoch': 10.25}
+{'padding_count': 0, 'loss': 1.8656, 'learning_rate': 2.695147679324895e-05, 'epoch': 10.32}
+{'padding_count': 0, 'loss': 1.8306, 'learning_rate': 2.6775668073136427e-05, 'epoch': 10.38}
+{'padding_count': 0, 'loss': 1.8675, 'learning_rate': 2.659985935302391e-05, 'epoch': 10.44}
+{'padding_count': 0, 'loss': 1.7969, 'learning_rate': 2.6424050632911397e-05, 'epoch': 10.51}
+{'padding_count': 0, 'loss': 1.7684, 'learning_rate': 2.6248241912798875e-05, 'epoch': 10.57}
+{'padding_count': 0, 'loss': 1.7224, 'learning_rate': 2.6072433192686356e-05, 'epoch': 10.63}
+{'padding_count': 0, 'loss': 1.8009, 'learning_rate': 2.5896624472573838e-05, 'epoch': 10.7}
+{'padding_count': 0, 'loss': 1.8907, 'learning_rate': 2.5720815752461326e-05, 'epoch': 10.76}
+{'padding_count': 0, 'loss': 1.8742, 'learning_rate': 2.5545007032348804e-05, 'epoch': 10.82}
+{'padding_count': 0, 'loss': 1.8347, 'learning_rate': 2.5369198312236286e-05, 'epoch': 10.89}
+{'padding_count': 0, 'loss': 1.8889, 'learning_rate': 2.5193389592123774e-05, 'epoch': 10.95}
+{'eval_loss': 3.472993850708008, 'eval_runtime': 4.0417, 'eval_samples_per_second': 67.298, 'eval_steps_per_second': 6.928, 'epoch': 11.0}
+{'padding_count': 0, 'loss': 1.8512, 'learning_rate': 2.5017580872011252e-05, 'epoch': 11.01}
+{'padding_count': 0, 'loss': 1.6442, 'learning_rate': 2.4841772151898734e-05, 'epoch': 11.08}
+{'padding_count': 0, 'loss': 1.7137, 'learning_rate': 2.466596343178622e-05, 'epoch': 11.14}
+{'padding_count': 0, 'loss': 1.5732, 'learning_rate': 2.44901547116737e-05, 'epoch': 11.2}
+{'padding_count': 0, 'loss': 1.7529, 'learning_rate': 2.431434599156118e-05, 'epoch': 11.27}
+{'padding_count': 0, 'loss': 1.5393, 'learning_rate': 2.4138537271448666e-05, 'epoch': 11.33}
+{'padding_count': 0, 'loss': 1.8054, 'learning_rate': 2.3962728551336148e-05, 'epoch': 11.39}
+{'padding_count': 0, 'loss': 1.7298, 'learning_rate': 2.378691983122363e-05, 'epoch': 11.46}
+{'padding_count': 0, 'loss': 1.724, 'learning_rate': 2.361111111111111e-05, 'epoch': 11.52}
+{'padding_count': 0, 'loss': 1.6968, 'learning_rate': 2.3435302390998595e-05, 'epoch': 11.58}
+{'padding_count': 0, 'loss': 1.705, 'learning_rate': 2.3259493670886077e-05, 'epoch': 11.65}
+{'padding_count': 0, 'loss': 1.892, 'learning_rate': 2.308368495077356e-05, 'epoch': 11.71}
+{'padding_count': 0, 'loss': 1.7502, 'learning_rate': 2.290787623066104e-05, 'epoch': 11.77}
+{'padding_count': 0, 'loss': 1.7051, 'learning_rate': 2.2732067510548525e-05, 'epoch': 11.84}
+{'padding_count': 0, 'loss': 1.7484, 'learning_rate': 2.255625879043601e-05, 'epoch': 11.9}
+{'padding_count': 0, 'loss': 1.7817, 'learning_rate': 2.2380450070323488e-05, 'epoch': 11.96}
+{'eval_loss': 3.5159075260162354, 'eval_runtime': 4.1049, 'eval_samples_per_second': 66.262, 'eval_steps_per_second': 6.821, 'epoch': 12.0}
+{'padding_count': 0, 'loss': 1.6776, 'learning_rate': 2.2204641350210972e-05, 'epoch': 12.03}
+{'padding_count': 0, 'loss': 1.6135, 'learning_rate': 2.2028832630098454e-05, 'epoch': 12.09}
+{'padding_count': 0, 'loss': 1.6903, 'learning_rate': 2.1853023909985935e-05, 'epoch': 12.15}
+{'padding_count': 0, 'loss': 1.635, 'learning_rate': 2.1677215189873417e-05, 'epoch': 12.22}
+{'padding_count': 0, 'loss': 1.5477, 'learning_rate': 2.1501406469760902e-05, 'epoch': 12.28}
+{'padding_count': 0, 'loss': 1.6198, 'learning_rate': 2.1325597749648383e-05, 'epoch': 12.34}
+{'padding_count': 0, 'loss': 1.5764, 'learning_rate': 2.1149789029535865e-05, 'epoch': 12.41}
+{'padding_count': 0, 'loss': 1.5983, 'learning_rate': 2.097398030942335e-05, 'epoch': 12.47}
+{'padding_count': 0, 'loss': 1.6132, 'learning_rate': 2.079817158931083e-05, 'epoch': 12.53}
+{'padding_count': 0, 'loss': 1.7004, 'learning_rate': 2.0622362869198312e-05, 'epoch': 12.59}
+{'padding_count': 0, 'loss': 1.6196, 'learning_rate': 2.0446554149085794e-05, 'epoch': 12.66}
+{'padding_count': 0, 'loss': 1.6451, 'learning_rate': 2.027074542897328e-05, 'epoch': 12.72}
+{'padding_count': 0, 'loss': 1.6539, 'learning_rate': 2.009493670886076e-05, 'epoch': 12.78}
+{'padding_count': 0, 'loss': 1.6295, 'learning_rate': 1.991912798874824e-05, 'epoch': 12.85}
+{'padding_count': 0, 'loss': 1.6214, 'learning_rate': 1.9743319268635727e-05, 'epoch': 12.91}
+{'padding_count': 0, 'loss': 1.6573, 'learning_rate': 1.9567510548523208e-05, 'epoch': 12.97}
+{'eval_loss': 3.5642476081848145, 'eval_runtime': 4.0999, 'eval_samples_per_second': 66.342, 'eval_steps_per_second': 6.829, 'epoch': 13.0}
+{'padding_count': 0, 'loss': 1.5104, 'learning_rate': 1.939170182841069e-05, 'epoch': 13.04}
+{'padding_count': 0, 'loss': 1.5171, 'learning_rate': 1.921589310829817e-05, 'epoch': 13.1}
+{'padding_count': 0, 'loss': 1.5116, 'learning_rate': 1.9040084388185656e-05, 'epoch': 13.16}
+{'padding_count': 0, 'loss': 1.5587, 'learning_rate': 1.8864275668073137e-05, 'epoch': 13.23}
+{'padding_count': 0, 'loss': 1.5028, 'learning_rate': 1.868846694796062e-05, 'epoch': 13.29}
+{'padding_count': 0, 'loss': 1.5438, 'learning_rate': 1.85126582278481e-05, 'epoch': 13.35}
+{'padding_count': 0, 'loss': 1.4295, 'learning_rate': 1.8336849507735585e-05, 'epoch': 13.42}
+{'padding_count': 0, 'loss': 1.5096, 'learning_rate': 1.8161040787623067e-05, 'epoch': 13.48}
+{'padding_count': 0, 'loss': 1.5593, 'learning_rate': 1.7985232067510548e-05, 'epoch': 13.54}
+{'padding_count': 0, 'loss': 1.5586, 'learning_rate': 1.7809423347398033e-05, 'epoch': 13.61}
+{'padding_count': 0, 'loss': 1.4742, 'learning_rate': 1.7633614627285514e-05, 'epoch': 13.67}
+{'padding_count': 0, 'loss': 1.6551, 'learning_rate': 1.7457805907172996e-05, 'epoch': 13.73}
+{'padding_count': 0, 'loss': 1.5937, 'learning_rate': 1.7281997187060477e-05, 'epoch': 13.8}
+{'padding_count': 0, 'loss': 1.5497, 'learning_rate': 1.7106188466947962e-05, 'epoch': 13.86}
+{'padding_count': 0, 'loss': 1.6318, 'learning_rate': 1.6930379746835444e-05, 'epoch': 13.92}
+{'padding_count': 0, 'loss': 1.6714, 'learning_rate': 1.6754571026722925e-05, 'epoch': 13.99}
+{'eval_loss': 3.5903453826904297, 'eval_runtime': 4.0768, 'eval_samples_per_second': 66.719, 'eval_steps_per_second': 6.868, 'epoch': 14.0}
+{'padding_count': 0, 'loss': 1.4974, 'learning_rate': 1.657876230661041e-05, 'epoch': 14.05}
+{'padding_count': 0, 'loss': 1.3418, 'learning_rate': 1.640295358649789e-05, 'epoch': 14.11}
+{'padding_count': 0, 'loss': 1.5752, 'learning_rate': 1.6227144866385373e-05, 'epoch': 14.18}
+{'padding_count': 0, 'loss': 1.554, 'learning_rate': 1.6051336146272854e-05, 'epoch': 14.24}
+{'padding_count': 0, 'loss': 1.4163, 'learning_rate': 1.587552742616034e-05, 'epoch': 14.3}
+{'padding_count': 0, 'loss': 1.4102, 'learning_rate': 1.569971870604782e-05, 'epoch': 14.37}
+{'padding_count': 0, 'loss': 1.5082, 'learning_rate': 1.5523909985935302e-05, 'epoch': 14.43}
+{'padding_count': 0, 'loss': 1.444, 'learning_rate': 1.5348101265822787e-05, 'epoch': 14.49}
+{'padding_count': 0, 'loss': 1.5639, 'learning_rate': 1.5172292545710268e-05, 'epoch': 14.56}
+{'padding_count': 0, 'loss': 1.4394, 'learning_rate': 1.4996483825597752e-05, 'epoch': 14.62}
+{'padding_count': 0, 'loss': 1.469, 'learning_rate': 1.4820675105485233e-05, 'epoch': 14.68}
+{'padding_count': 0, 'loss': 1.5684, 'learning_rate': 1.4644866385372716e-05, 'epoch': 14.75}
+{'padding_count': 0, 'loss': 1.4657, 'learning_rate': 1.4469057665260196e-05, 'epoch': 14.81}
+{'padding_count': 0, 'loss': 1.5586, 'learning_rate': 1.429324894514768e-05, 'epoch': 14.87}
+{'padding_count': 0, 'loss': 1.4266, 'learning_rate': 1.411744022503516e-05, 'epoch': 14.94}
+{'padding_count': 0, 'loss': 1.4642, 'learning_rate': 1.3941631504922645e-05, 'epoch': 15.0}
+{'eval_loss': 3.6467111110687256, 'eval_runtime': 4.1238, 'eval_samples_per_second': 65.959, 'eval_steps_per_second': 6.79, 'epoch': 15.0}
+{'padding_count': 0, 'loss': 1.3511, 'learning_rate': 1.3765822784810129e-05, 'epoch': 15.06}
+{'padding_count': 0, 'loss': 1.3921, 'learning_rate': 1.359001406469761e-05, 'epoch': 15.13}
+{'padding_count': 0, 'loss': 1.2704, 'learning_rate': 1.3414205344585093e-05, 'epoch': 15.19}
+{'padding_count': 0, 'loss': 1.4591, 'learning_rate': 1.3238396624472573e-05, 'epoch': 15.25}
+{'padding_count': 0, 'loss': 1.4217, 'learning_rate': 1.3062587904360058e-05, 'epoch': 15.32}
+{'padding_count': 0, 'loss': 1.3368, 'learning_rate': 1.2886779184247538e-05, 'epoch': 15.38}
+{'padding_count': 0, 'loss': 1.401, 'learning_rate': 1.2710970464135022e-05, 'epoch': 15.44}
+{'padding_count': 0, 'loss': 1.4807, 'learning_rate': 1.2535161744022502e-05, 'epoch': 15.51}
+{'padding_count': 0, 'loss': 1.4052, 'learning_rate': 1.2359353023909987e-05, 'epoch': 15.57}
+{'padding_count': 0, 'loss': 1.4886, 'learning_rate': 1.2183544303797469e-05, 'epoch': 15.63}
+{'padding_count': 0, 'loss': 1.4588, 'learning_rate': 1.200773558368495e-05, 'epoch': 15.7}
+{'padding_count': 0, 'loss': 1.3861, 'learning_rate': 1.1831926863572433e-05, 'epoch': 15.76}
+{'padding_count': 0, 'loss': 1.4269, 'learning_rate': 1.1656118143459916e-05, 'epoch': 15.82}
+{'padding_count': 0, 'loss': 1.457, 'learning_rate': 1.14803094233474e-05, 'epoch': 15.89}
+{'padding_count': 0, 'loss': 1.5356, 'learning_rate': 1.1304500703234881e-05, 'epoch': 15.95}
+{'eval_loss': 3.6616604328155518, 'eval_runtime': 4.0524, 'eval_samples_per_second': 67.121, 'eval_steps_per_second': 6.91, 'epoch': 16.0}
+{'padding_count': 0, 'loss': 1.4159, 'learning_rate': 1.1128691983122364e-05, 'epoch': 16.01}
+{'padding_count': 0, 'loss': 1.4281, 'learning_rate': 1.0952883263009846e-05, 'epoch': 16.08}
+{'padding_count': 0, 'loss': 1.3599, 'learning_rate': 1.0777074542897329e-05, 'epoch': 16.14}
+{'padding_count': 0, 'loss': 1.3547, 'learning_rate': 1.060126582278481e-05, 'epoch': 16.2}
+{'padding_count': 0, 'loss': 1.3918, 'learning_rate': 1.0425457102672292e-05, 'epoch': 16.27}
+{'padding_count': 0, 'loss': 1.4634, 'learning_rate': 1.0249648382559777e-05, 'epoch': 16.33}
+{'padding_count': 0, 'loss': 1.3002, 'learning_rate': 1.0073839662447258e-05, 'epoch': 16.39}
+{'padding_count': 0, 'loss': 1.3833, 'learning_rate': 9.898030942334741e-06, 'epoch': 16.46}
+{'padding_count': 0, 'loss': 1.3803, 'learning_rate': 9.722222222222223e-06, 'epoch': 16.52}
+{'padding_count': 0, 'loss': 1.2317, 'learning_rate': 9.546413502109706e-06, 'epoch': 16.58}
+{'padding_count': 0, 'loss': 1.3136, 'learning_rate': 9.370604781997187e-06, 'epoch': 16.65}
+{'padding_count': 0, 'loss': 1.4192, 'learning_rate': 9.194796061884669e-06, 'epoch': 16.71}
+{'padding_count': 0, 'loss': 1.3532, 'learning_rate': 9.018987341772152e-06, 'epoch': 16.77}
+{'padding_count': 0, 'loss': 1.4669, 'learning_rate': 8.843178621659633e-06, 'epoch': 16.84}
+{'padding_count': 0, 'loss': 1.3214, 'learning_rate': 8.667369901547118e-06, 'epoch': 16.9}
+{'padding_count': 0, 'loss': 1.3402, 'learning_rate': 8.4915611814346e-06, 'epoch': 16.96}
+{'eval_loss': 3.73494815826416, 'eval_runtime': 4.0652, 'eval_samples_per_second': 66.909, 'eval_steps_per_second': 6.888, 'epoch': 17.0}
+{'padding_count': 0, 'loss': 1.3197, 'learning_rate': 8.315752461322083e-06, 'epoch': 17.03}
+{'padding_count': 0, 'loss': 1.3264, 'learning_rate': 8.139943741209564e-06, 'epoch': 17.09}
+{'padding_count': 0, 'loss': 1.3273, 'learning_rate': 7.964135021097048e-06, 'epoch': 17.15}
+{'padding_count': 0, 'loss': 1.2995, 'learning_rate': 7.788326300984529e-06, 'epoch': 17.22}
+{'padding_count': 0, 'loss': 1.2851, 'learning_rate': 7.612517580872011e-06, 'epoch': 17.28}
+{'padding_count': 0, 'loss': 1.3987, 'learning_rate': 7.436708860759494e-06, 'epoch': 17.34}
+{'padding_count': 0, 'loss': 1.3917, 'learning_rate': 7.260900140646977e-06, 'epoch': 17.41}
+{'padding_count': 0, 'loss': 1.299, 'learning_rate': 7.085091420534459e-06, 'epoch': 17.47}
+{'padding_count': 0, 'loss': 1.3056, 'learning_rate': 6.909282700421941e-06, 'epoch': 17.53}
+{'padding_count': 0, 'loss': 1.2987, 'learning_rate': 6.733473980309424e-06, 'epoch': 17.59}
+{'padding_count': 0, 'loss': 1.3642, 'learning_rate': 6.557665260196906e-06, 'epoch': 17.66}
+{'padding_count': 0, 'loss': 1.3727, 'learning_rate': 6.381856540084388e-06, 'epoch': 17.72}
+{'padding_count': 0, 'loss': 1.3605, 'learning_rate': 6.2060478199718715e-06, 'epoch': 17.78}
+{'padding_count': 0, 'loss': 1.216, 'learning_rate': 6.030239099859354e-06, 'epoch': 17.85}
+{'padding_count': 0, 'loss': 1.3639, 'learning_rate': 5.854430379746835e-06, 'epoch': 17.91}
+{'padding_count': 0, 'loss': 1.2416, 'learning_rate': 5.678621659634318e-06, 'epoch': 17.97}
+{'eval_loss': 3.7358851432800293, 'eval_runtime': 4.1217, 'eval_samples_per_second': 65.993, 'eval_steps_per_second': 6.793, 'epoch': 18.0}
+{'padding_count': 0, 'loss': 1.2683, 'learning_rate': 5.502812939521801e-06, 'epoch': 18.04}
+{'padding_count': 0, 'loss': 1.2019, 'learning_rate': 5.327004219409283e-06, 'epoch': 18.1}
+{'padding_count': 0, 'loss': 1.2786, 'learning_rate': 5.151195499296765e-06, 'epoch': 18.16}
+{'padding_count': 0, 'loss': 1.1867, 'learning_rate': 4.975386779184248e-06, 'epoch': 18.23}
+{'padding_count': 0, 'loss': 1.2874, 'learning_rate': 4.79957805907173e-06, 'epoch': 18.29}
+{'padding_count': 0, 'loss': 1.3851, 'learning_rate': 4.623769338959213e-06, 'epoch': 18.35}
+{'padding_count': 0, 'loss': 1.3606, 'learning_rate': 4.447960618846695e-06, 'epoch': 18.42}
+{'padding_count': 0, 'loss': 1.2988, 'learning_rate': 4.272151898734177e-06, 'epoch': 18.48}
+{'padding_count': 0, 'loss': 1.2108, 'learning_rate': 4.096343178621659e-06, 'epoch': 18.54}
+{'padding_count': 0, 'loss': 1.3006, 'learning_rate': 3.9205344585091424e-06, 'epoch': 18.61}
+{'padding_count': 0, 'loss': 1.3464, 'learning_rate': 3.7447257383966248e-06, 'epoch': 18.67}
+{'padding_count': 0, 'loss': 1.3114, 'learning_rate': 3.568917018284107e-06, 'epoch': 18.73}
+{'padding_count': 0, 'loss': 1.3565, 'learning_rate': 3.3931082981715894e-06, 'epoch': 18.8}
+{'padding_count': 0, 'loss': 1.2489, 'learning_rate': 3.217299578059072e-06, 'epoch': 18.86}
+{'padding_count': 0, 'loss': 1.3488, 'learning_rate': 3.0414908579465544e-06, 'epoch': 18.92}
+{'padding_count': 0, 'loss': 1.3781, 'learning_rate': 2.8656821378340368e-06, 'epoch': 18.99}
+{'eval_loss': 3.7525434494018555, 'eval_runtime': 4.0713, 'eval_samples_per_second': 66.81, 'eval_steps_per_second': 6.877, 'epoch': 19.0}
+{'padding_count': 0, 'loss': 1.3216, 'learning_rate': 2.689873417721519e-06, 'epoch': 19.05}
+{'padding_count': 0, 'loss': 1.2849, 'learning_rate': 2.5140646976090014e-06, 'epoch': 19.11}
+{'padding_count': 0, 'loss': 1.2465, 'learning_rate': 2.338255977496484e-06, 'epoch': 19.18}
+{'padding_count': 0, 'loss': 1.3053, 'learning_rate': 2.1624472573839664e-06, 'epoch': 19.24}
+{'padding_count': 0, 'loss': 1.2632, 'learning_rate': 1.9866385372714487e-06, 'epoch': 19.3}
+{'padding_count': 0, 'loss': 1.2518, 'learning_rate': 1.810829817158931e-06, 'epoch': 19.37}
+{'padding_count': 0, 'loss': 1.2643, 'learning_rate': 1.6350210970464138e-06, 'epoch': 19.43}
+{'padding_count': 0, 'loss': 1.2481, 'learning_rate': 1.459212376933896e-06, 'epoch': 19.49}
+{'padding_count': 0, 'loss': 1.3226, 'learning_rate': 1.2834036568213784e-06, 'epoch': 19.56}
+{'padding_count': 0, 'loss': 1.2875, 'learning_rate': 1.1075949367088607e-06, 'epoch': 19.62}
+{'padding_count': 0, 'loss': 1.3365, 'learning_rate': 9.317862165963433e-07, 'epoch': 19.68}
+{'padding_count': 0, 'loss': 1.3157, 'learning_rate': 7.559774964838257e-07, 'epoch': 19.75}
+{'padding_count': 0, 'loss': 1.225, 'learning_rate': 5.801687763713081e-07, 'epoch': 19.81}
+{'padding_count': 0, 'loss': 1.2432, 'learning_rate': 4.043600562587905e-07, 'epoch': 19.87}
+{'padding_count': 0, 'loss': 1.1934, 'learning_rate': 2.2855133614627287e-07, 'epoch': 19.94}
+{'padding_count': 0, 'loss': 1.3035, 'learning_rate': 5.274261603375527e-08, 'epoch': 20.0}
+{'eval_loss': 3.762303113937378, 'eval_runtime': 4.1929, 'eval_samples_per_second': 64.871, 'eval_steps_per_second': 6.678, 'epoch': 20.0}
+{'train_runtime': 2095.0984, 'train_samples_per_second': 11.999, 'train_steps_per_second': 1.508, 'train_loss': 2.1029041054882582, 'epoch': 20.0}
 ***** train metrics *****
   epoch                    =       20.0
-  train_loss               =     2.1839
-  train_runtime            = 0:12:31.41
+  train_loss               =     2.1029
+  train_runtime            = 0:34:55.09
   train_samples            =       1257
-  train_samples_per_second =     33.457
-  train_steps_per_second   =      1.065
+  train_samples_per_second =     11.999
+  train_steps_per_second   =      1.508
 ***** eval metrics *****
   epoch                   =       20.0
-  eval_loss               =     3.2026
-  eval_runtime            = 0:00:00.99
+  eval_loss               =     3.7623
+  eval_runtime            = 0:00:03.97
   eval_samples            =        272
-  eval_samples_per_second =    273.428
-  eval_steps_per_second   =     14.073
+  eval_samples_per_second =     68.506
+  eval_steps_per_second   =      7.052
 [34m[1mwandb[39m[22m: [33mWARNING[39m Saving files without folders. If you want to preserve sub directories pass base_path to wandb.save, i.e. wandb.save("/mnt/folder/file.h5", base_path="/mnt")
 [34m[1mwandb[39m[22m: [33mWARNING[39m Saving files without folders. If you want to preserve sub directories pass base_path to wandb.save, i.e. wandb.save("/mnt/folder/file.h5", base_path="/mnt")
 [34m[1mwandb[39m[22m: [33mWARNING[39m Saving files without folders. If you want to preserve sub directories pass base_path to wandb.save, i.e. wandb.save("/mnt/folder/file.h5", base_path="/mnt")
-  0%|                                                                                                     | 0/800 [00:00<?, ?it/s][INFO|trainer.py:1411] 2022-06-06 16:30:19,984 >> Unused parameters:
-/home/s1970716/miniconda3/envs/scrolls_venv/lib/python3.8/site-packages/transformers/trainer.py:1444: FutureWarning:
+  0%|                                                                                                    | 0/3160 [00:00<?, ?it/s]/home/s1970716/miniconda3/envs/scrolls_venv/lib/python3.8/site-packages/transformers/trainer.py:1444: FutureWarning:
 Non-finite norm encountered in torch.nn.utils.clip_grad_norm_; continuing anyway. Note that the default behavior will change in a future release to error out if a non-finite total norm is encountered. At that point, setting error_if_nonfinite=false will be required to retain the old behavior.
-  0%|                                                                                             | 1/800 [00:01<21:09,  1.59s/it]2022-06-06 16:30:20 | INFO | root | Reducer buckets have been rebuilt in this iteration.
-  5%|████▌                                                                                       | 40/800 [00:18<04:50,  2.62it/s][INFO|trainer.py:528] 2022-06-06 16:30:37,087 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:30:37,092 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:30:37,092 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:30:37,092 >>   Batch size = 10
-  5%|████▌                                                                                       | 40/800 [00:19<04:50,  2.62it/s][INFO|trainer.py:2072] 2022-06-06 16:30:38,045 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-40
-[INFO|configuration_utils.py:391] 2022-06-06 16:30:38,053 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-40/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:30:44,484 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-40/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:30:44,487 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-40/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:30:44,489 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-40/special_tokens_map.json
- 10%|█████████▏                                                                                  | 80/800 [00:52<04:17,  2.80it/s][INFO|trainer.py:528] 2022-06-06 16:31:10,658 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:31:10,662 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:31:10,662 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:31:10,662 >>   Batch size = 10
- 10%|█████████▏                                                                                  | 80/800 [00:53<04:17,  2.80it/s][INFO|trainer.py:2072] 2022-06-06 16:31:11,615 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-80
-[INFO|configuration_utils.py:391] 2022-06-06 16:31:11,619 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-80/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:31:17,888 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-80/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:31:17,892 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-80/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:31:17,893 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-80/special_tokens_map.json
- 15%|█████████████▋                                                                             | 120/800 [01:25<04:05,  2.77it/s][INFO|trainer.py:528] 2022-06-06 16:31:44,055 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:31:44,059 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:31:44,059 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:31:44,059 >>   Batch size = 10
- 15%|█████████████▋                                                                             | 120/800 [01:26<04:05,  2.77it/s][INFO|trainer.py:2072] 2022-06-06 16:31:45,015 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-120
-[INFO|configuration_utils.py:391] 2022-06-06 16:31:45,019 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-120/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:31:51,279 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-120/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:31:51,282 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-120/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:31:51,284 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-120/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:32:03,939 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-40] due to args.save_total_limit
- 20%|██████████████████▏                                                                        | 160/800 [01:59<03:44,  2.85it/s][INFO|trainer.py:528] 2022-06-06 16:32:18,053 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:32:18,056 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:32:18,056 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:32:18,056 >>   Batch size = 10
- 20%|██████████████████▏                                                                        | 160/800 [02:00<03:44,  2.85it/s][INFO|trainer.py:2072] 2022-06-06 16:32:19,017 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-160
-[INFO|configuration_utils.py:391] 2022-06-06 16:32:19,059 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-160/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:32:25,298 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-160/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:32:25,303 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-160/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:32:25,305 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-160/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:32:37,879 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-80] due to args.save_total_limit
- 25%|██████████████████████▊                                                                    | 200/800 [02:33<03:34,  2.80it/s][INFO|trainer.py:528] 2022-06-06 16:32:52,001 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:32:52,005 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:32:52,006 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:32:52,006 >>   Batch size = 10
- 25%|██████████████████████▊                                                                    | 200/800 [02:34<03:34,  2.80it/s][INFO|trainer.py:2072] 2022-06-06 16:32:52,995 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-200
-[INFO|configuration_utils.py:391] 2022-06-06 16:32:52,998 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-200/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:32:59,217 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-200/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:32:59,223 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-200/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:32:59,225 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-200/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:33:11,847 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-160] due to args.save_total_limit
- 29%|██████████████████████████▎                                                                | 231/800 [03:04<03:24,  2.78it/s]/home/s1970716/miniconda3/envs/scrolls_venv/lib/python3.8/site-packages/transformers/trainer.py:1444: FutureWarning:
-Non-finite norm encountered in torch.nn.utils.clip_grad_norm_; continuing anyway. Note that the default behavior will change in a future release to error out if a non-finite total norm is encountered. At that point, setting error_if_nonfinite=false will be required to retain the old behavior.
- 30%|███████████████████████████▎                                                               | 240/800 [03:07<03:18,  2.82it/s][INFO|trainer.py:528] 2022-06-06 16:33:26,058 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:33:26,061 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:33:26,061 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:33:26,061 >>   Batch size = 10
- 30%|███████████████████████████▎                                                               | 240/800 [03:08<03:18,  2.82it/s][INFO|trainer.py:2072] 2022-06-06 16:33:27,031 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-240
-[INFO|configuration_utils.py:391] 2022-06-06 16:33:27,034 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-240/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:33:33,236 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-240/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:33:33,238 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-240/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:33:33,239 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-240/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:33:45,822 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-200] due to args.save_total_limit
- 35%|███████████████████████████████▊                                                           | 280/800 [03:41<03:02,  2.85it/s][INFO|trainer.py:528] 2022-06-06 16:33:59,973 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:33:59,977 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:33:59,977 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:33:59,977 >>   Batch size = 10
- 35%|███████████████████████████████▊                                                           | 280/800 [03:42<03:02,  2.85it/s][INFO|trainer.py:2072] 2022-06-06 16:34:00,961 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-280
-[INFO|configuration_utils.py:391] 2022-06-06 16:34:00,964 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-280/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:34:07,112 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-280/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:34:07,115 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-280/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:34:07,117 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-280/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:34:20,200 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-240] due to args.save_total_limit
- 40%|████████████████████████████████████▍                                                      | 320/800 [04:15<02:51,  2.80it/s][INFO|trainer.py:528] 2022-06-06 16:34:34,413 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:34:34,416 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:34:34,416 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:34:34,416 >>   Batch size = 10
- 40%|████████████████████████████████████▍                                                      | 320/800 [04:16<02:51,  2.80it/s][INFO|trainer.py:2072] 2022-06-06 16:34:35,378 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-320
-[INFO|configuration_utils.py:391] 2022-06-06 16:34:35,382 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-320/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:34:41,609 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-320/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:34:41,612 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-320/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:34:41,614 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-320/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:34:54,230 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-280] due to args.save_total_limit
- 45%|████████████████████████████████████████▉                                                  | 360/800 [04:49<02:39,  2.76it/s][INFO|trainer.py:528] 2022-06-06 16:35:08,432 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:35:08,435 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:35:08,435 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:35:08,436 >>   Batch size = 10
- 45%|████████████████████████████████████████▉                                                  | 360/800 [04:50<02:39,  2.76it/s][INFO|trainer.py:2072] 2022-06-06 16:35:09,393 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-360
-[INFO|configuration_utils.py:391] 2022-06-06 16:35:09,397 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-360/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:35:15,571 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-360/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:35:15,574 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-360/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:35:15,576 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-360/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:35:28,263 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-320] due to args.save_total_limit
- 50%|█████████████████████████████████████████████▌                                             | 400/800 [05:24<02:22,  2.80it/s][INFO|trainer.py:528] 2022-06-06 16:35:42,557 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:35:42,561 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:35:42,561 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:35:42,561 >>   Batch size = 10
- 50%|█████████████████████████████████████████████▌                                             | 400/800 [05:25<02:22,  2.80it/s][INFO|trainer.py:2072] 2022-06-06 16:35:43,553 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-400
-[INFO|configuration_utils.py:391] 2022-06-06 16:35:43,557 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-400/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:35:50,055 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-400/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:35:50,058 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-400/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:35:50,059 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-400/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:36:03,274 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-360] due to args.save_total_limit
- 55%|██████████████████████████████████████████████████                                         | 440/800 [05:58<02:09,  2.79it/s][INFO|trainer.py:528] 2022-06-06 16:36:17,512 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:36:17,515 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:36:17,516 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:36:17,516 >>   Batch size = 10
- 55%|██████████████████████████████████████████████████                                         | 440/800 [05:59<02:09,  2.79it/s][INFO|trainer.py:2072] 2022-06-06 16:36:18,479 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-440
-[INFO|configuration_utils.py:391] 2022-06-06 16:36:18,495 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-440/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:36:25,140 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-440/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:36:25,143 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-440/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:36:25,145 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-440/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:36:38,514 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-400] due to args.save_total_limit
- 60%|██████████████████████████████████████████████████████▌                                    | 480/800 [06:34<01:55,  2.77it/s][INFO|trainer.py:528] 2022-06-06 16:36:52,645 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:36:52,649 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:36:52,649 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:36:52,649 >>   Batch size = 10
- 60%|██████████████████████████████████████████████████████▌                                    | 480/800 [06:35<01:55,  2.77it/s][INFO|trainer.py:2072] 2022-06-06 16:36:53,627 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-480
-[INFO|configuration_utils.py:391] 2022-06-06 16:36:53,630 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-480/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:37:00,215 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-480/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:37:00,218 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-480/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:37:00,220 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-480/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:37:13,522 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-440] due to args.save_total_limit
- 65%|███████████████████████████████████████████████████████████▏                               | 520/800 [07:09<01:38,  2.83it/s][INFO|trainer.py:528] 2022-06-06 16:37:27,672 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:37:27,675 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:37:27,675 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:37:27,675 >>   Batch size = 10
- 65%|███████████████████████████████████████████████████████████▏                               | 520/800 [07:10<01:38,  2.83it/s][INFO|trainer.py:2072] 2022-06-06 16:37:28,667 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-520
-[INFO|configuration_utils.py:391] 2022-06-06 16:37:28,684 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-520/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:37:35,258 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-520/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:37:35,295 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-520/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:37:35,297 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-520/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:37:48,750 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-480] due to args.save_total_limit
- 70%|███████████████████████████████████████████████████████████████▋                           | 560/800 [07:44<01:26,  2.79it/s][INFO|trainer.py:528] 2022-06-06 16:38:02,879 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:38:02,882 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:38:02,882 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:38:02,883 >>   Batch size = 10
- 70%|███████████████████████████████████████████████████████████████▋                           | 560/800 [07:45<01:26,  2.79it/s][INFO|trainer.py:2072] 2022-06-06 16:38:03,845 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-560
-[INFO|configuration_utils.py:391] 2022-06-06 16:38:03,863 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-560/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:38:10,121 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-560/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:38:10,123 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-560/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:38:10,125 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-560/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:38:22,841 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-520] due to args.save_total_limit
- 75%|████████████████████████████████████████████████████████████████████▎                      | 600/800 [08:18<01:09,  2.86it/s][INFO|trainer.py:528] 2022-06-06 16:38:36,972 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:38:36,976 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:38:36,976 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:38:36,976 >>   Batch size = 10
- 75%|████████████████████████████████████████████████████████████████████▎                      | 600/800 [08:19<01:09,  2.86it/s][INFO|trainer.py:2072] 2022-06-06 16:38:37,949 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-600
-[INFO|configuration_utils.py:391] 2022-06-06 16:38:37,959 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-600/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:38:44,223 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-600/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:38:44,225 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-600/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:38:44,227 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-600/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:38:56,905 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-560] due to args.save_total_limit
- 80%|████████████████████████████████████████████████████████████████████████▊                  | 640/800 [08:52<00:56,  2.85it/s][INFO|trainer.py:528] 2022-06-06 16:39:11,004 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:39:11,007 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:39:11,007 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:39:11,007 >>   Batch size = 10
- 80%|████████████████████████████████████████████████████████████████████████▊                  | 640/800 [08:53<00:56,  2.85it/s][INFO|trainer.py:2072] 2022-06-06 16:39:11,983 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-640
-[INFO|configuration_utils.py:391] 2022-06-06 16:39:11,986 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-640/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:39:18,152 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-640/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:39:18,154 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-640/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:39:18,156 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-640/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:39:31,174 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-600] due to args.save_total_limit
- 85%|█████████████████████████████████████████████████████████████████████████████▎             | 680/800 [09:26<00:41,  2.88it/s][INFO|trainer.py:528] 2022-06-06 16:39:45,266 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:39:45,269 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:39:45,269 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:39:45,269 >>   Batch size = 10
- 85%|█████████████████████████████████████████████████████████████████████████████▎             | 680/800 [09:27<00:41,  2.88it/s][INFO|trainer.py:2072] 2022-06-06 16:39:46,233 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-680
-[INFO|configuration_utils.py:391] 2022-06-06 16:39:46,236 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-680/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:39:52,460 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-680/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:39:52,463 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-680/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:39:52,465 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-680/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:40:05,238 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-640] due to args.save_total_limit
- 90%|█████████████████████████████████████████████████████████████████████████████████▉         | 720/800 [10:00<00:27,  2.86it/s][INFO|trainer.py:528] 2022-06-06 16:40:19,327 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:40:19,330 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:40:19,330 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:40:19,330 >>   Batch size = 10
- 90%|█████████████████████████████████████████████████████████████████████████████████▉         | 720/800 [10:01<00:27,  2.86it/s][INFO|trainer.py:2072] 2022-06-06 16:40:20,314 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-720
-[INFO|configuration_utils.py:391] 2022-06-06 16:40:20,317 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-720/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:40:26,517 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-720/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:40:26,520 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-720/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:40:26,522 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-720/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:40:39,218 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-680] due to args.save_total_limit
- 95%|██████████████████████████████████████████████████████████████████████████████████████▍    | 760/800 [10:34<00:14,  2.84it/s][INFO|trainer.py:528] 2022-06-06 16:40:53,326 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:40:53,329 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:40:53,330 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:40:53,330 >>   Batch size = 10
- 95%|██████████████████████████████████████████████████████████████████████████████████████▍    | 760/800 [10:35<00:14,  2.84it/s][INFO|trainer.py:2072] 2022-06-06 16:40:54,292 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-760
-[INFO|configuration_utils.py:391] 2022-06-06 16:40:54,295 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-760/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:41:00,480 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-760/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:41:00,484 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-760/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:41:00,485 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-760/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:41:13,224 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-720] due to args.save_total_limit
-100%|███████████████████████████████████████████████████████████████████████████████████████████| 800/800 [11:08<00:00,  2.80it/s][INFO|trainer.py:528] 2022-06-06 16:41:27,389 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:41:27,393 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:41:27,393 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:41:27,393 >>   Batch size = 10
-100%|███████████████████████████████████████████████████████████████████████████████████████████| 800/800 [11:09<00:00,  2.80it/s][INFO|trainer.py:2072] 2022-06-06 16:41:28,359 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-800
-[INFO|configuration_utils.py:391] 2022-06-06 16:41:28,363 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-800/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:41:34,624 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-800/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:41:34,627 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-800/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:41:34,628 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-800/special_tokens_map.json
-[INFO|trainer.py:2148] 2022-06-06 16:41:47,272 >> Deleting older checkpoint [/disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-760] due to args.save_total_limit
-[INFO|trainer.py:1507] 2022-06-06 16:41:47,858 >>
+  5%|████▌                                                                                     | 158/3160 [01:51<32:59,  1.52it/s][INFO|trainer.py:528] 2022-06-08 02:50:40,754 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 02:50:40,759 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 02:50:40,759 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 02:50:40,760 >>   Batch size = 10
+ 10%|█████████                                                                                 | 316/3160 [03:31<28:46,  1.65it/s][INFO|trainer.py:528] 2022-06-08 02:52:21,540 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 02:52:21,544 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 02:52:21,545 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 02:52:21,545 >>   Batch size = 10
+ 15%|█████████████▌                                                                            | 474/3160 [05:14<30:13,  1.48it/s][INFO|trainer.py:528] 2022-06-08 02:54:04,050 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 02:54:04,053 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 02:54:04,053 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 02:54:04,053 >>   Batch size = 10
+ 20%|██████████████████                                                                        | 632/3160 [06:56<26:34,  1.59it/s][INFO|trainer.py:528] 2022-06-08 02:55:46,588 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 02:55:46,592 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 02:55:46,593 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 02:55:46,593 >>   Batch size = 10
+ 25%|██████████████████████▌                                                                   | 790/3160 [08:39<24:37,  1.60it/s][INFO|trainer.py:528] 2022-06-08 02:57:29,462 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 02:57:29,466 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 02:57:29,467 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 02:57:29,467 >>   Batch size = 10
+ 30%|███████████████████████████                                                               | 948/3160 [10:23<23:52,  1.54it/s][INFO|trainer.py:528] 2022-06-08 02:59:12,683 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 02:59:12,687 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 02:59:12,687 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 02:59:12,687 >>   Batch size = 10
+ 35%|███████████████████████████████▏                                                         | 1106/3160 [12:05<20:58,  1.63it/s][INFO|trainer.py:528] 2022-06-08 03:00:55,569 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:00:55,573 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:00:55,573 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:00:55,574 >>   Batch size = 10
+ 40%|███████████████████████████████████▌                                                     | 1264/3160 [13:49<19:05,  1.65it/s][INFO|trainer.py:528] 2022-06-08 03:02:38,852 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:02:38,856 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:02:38,857 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:02:38,857 >>   Batch size = 10
+ 45%|████████████████████████████████████████                                                 | 1422/3160 [15:32<18:06,  1.60it/s][INFO|trainer.py:528] 2022-06-08 03:04:21,766 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:04:21,770 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:04:21,770 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:04:21,771 >>   Batch size = 10
+ 50%|████████████████████████████████████████████▌                                            | 1580/3160 [17:15<16:26,  1.60it/s][INFO|trainer.py:528] 2022-06-08 03:06:04,955 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:06:04,959 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:06:04,960 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:06:04,960 >>   Batch size = 10
+ 55%|████████████████████████████████████████████████▉                                        | 1738/3160 [18:58<15:13,  1.56it/s][INFO|trainer.py:528] 2022-06-08 03:07:48,073 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:07:48,078 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:07:48,078 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:07:48,078 >>   Batch size = 10
+ 60%|█████████████████████████████████████████████████████▍                                   | 1896/3160 [20:41<13:01,  1.62it/s][INFO|trainer.py:528] 2022-06-08 03:09:30,951 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:09:30,955 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:09:30,956 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:09:30,956 >>   Batch size = 10
+ 65%|█████████████████████████████████████████████████████████▊                               | 2054/3160 [22:24<11:36,  1.59it/s][INFO|trainer.py:528] 2022-06-08 03:11:14,315 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:11:14,319 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:11:14,319 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:11:14,319 >>   Batch size = 10
+ 70%|██████████████████████████████████████████████████████████████▎                          | 2212/3160 [24:07<09:59,  1.58it/s][INFO|trainer.py:528] 2022-06-08 03:12:57,423 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:12:57,427 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:12:57,428 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:12:57,428 >>   Batch size = 10
+ 75%|██████████████████████████████████████████████████████████████████▊                      | 2370/3160 [25:50<08:07,  1.62it/s][INFO|trainer.py:528] 2022-06-08 03:14:40,537 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:14:40,541 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:14:40,541 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:14:40,542 >>   Batch size = 10
+ 80%|███████████████████████████████████████████████████████████████████████▏                 | 2528/3160 [27:34<06:37,  1.59it/s][INFO|trainer.py:528] 2022-06-08 03:16:23,911 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:16:23,915 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:16:23,916 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:16:23,916 >>   Batch size = 10
+ 85%|███████████████████████████████████████████████████████████████████████████▋             | 2686/3160 [29:17<04:50,  1.63it/s][INFO|trainer.py:528] 2022-06-08 03:18:07,195 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:18:07,199 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:18:07,199 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:18:07,199 >>   Batch size = 10
+ 90%|████████████████████████████████████████████████████████████████████████████████         | 2844/3160 [31:00<03:09,  1.66it/s][INFO|trainer.py:528] 2022-06-08 03:19:50,443 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:19:50,447 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:19:50,447 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:19:50,447 >>   Batch size = 10
+ 95%|████████████████████████████████████████████████████████████████████████████████████▌    | 3002/3160 [32:44<01:42,  1.55it/s][INFO|trainer.py:528] 2022-06-08 03:21:33,766 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:21:33,770 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:21:33,770 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:21:33,771 >>   Batch size = 10
+100%|█████████████████████████████████████████████████████████████████████████████████████████| 3160/3160 [34:27<00:00,  1.60it/s][INFO|trainer.py:528] 2022-06-08 03:23:17,105 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:23:17,109 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:23:17,109 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:23:17,109 >>   Batch size = 10
+100%|█████████████████████████████████████████████████████████████████████████████████████████| 3160/3160 [34:31<00:00,  1.60it/s][INFO|trainer.py:1507] 2022-06-08 03:23:21,306 >>
 Training completed. Do not forget to share your model on huggingface.co/models =)
-[INFO|trainer.py:1515] 2022-06-06 16:41:47,859 >> Loading best model from /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/checkpoint-120 (score: 3.2026424407958984).
-100%|███████████████████████████████████████████████████████████████████████████████████████████| 800/800 [11:34<00:00,  1.15it/s]
-[INFO|trainer.py:2072] 2022-06-06 16:41:53,264 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10
-[INFO|configuration_utils.py:391] 2022-06-06 16:41:53,267 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/config.json
-[INFO|modeling_utils.py:1001] 2022-06-06 16:41:59,437 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/pytorch_model.bin
-[INFO|tokenization_utils_base.py:2020] 2022-06-06 16:41:59,440 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/tokenizer_config.json
-[INFO|tokenization_utils_base.py:2026] 2022-06-06 16:41:59,441 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_256_1_0.0001_4096_scrolls_qmsum_credit-party-10/special_tokens_map.json
-2022-06-06 16:41:59 | INFO | __main__ | *** Evaluate ***
-[INFO|trainer.py:528] 2022-06-06 16:41:59,658 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
-[INFO|trainer.py:2324] 2022-06-06 16:41:59,662 >> ***** Running Evaluation *****
-[INFO|trainer.py:2326] 2022-06-06 16:41:59,662 >>   Num examples = 272
-[INFO|trainer.py:2329] 2022-06-06 16:41:59,662 >>   Batch size = 10
-100%|█████████████████████████████████████████████████████████████████████████████████████████████| 14/14 [00:00<00:00, 14.94it/s]
+100%|█████████████████████████████████████████████████████████████████████████████████████████| 3160/3160 [34:31<00:00,  1.53it/s]
+[INFO|trainer.py:2072] 2022-06-08 03:23:21,323 >> Saving model checkpoint to /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_512_1_5e-05_4096_scrolls_qmsum_gas-judge-21
+[INFO|configuration_utils.py:391] 2022-06-08 03:23:21,356 >> Configuration saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_512_1_5e-05_4096_scrolls_qmsum_gas-judge-21/config.json
+[INFO|modeling_utils.py:1001] 2022-06-08 03:23:35,318 >> Model weights saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_512_1_5e-05_4096_scrolls_qmsum_gas-judge-21/pytorch_model.bin
+[INFO|tokenization_utils_base.py:2020] 2022-06-08 03:23:35,321 >> tokenizer config file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_512_1_5e-05_4096_scrolls_qmsum_gas-judge-21/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2026] 2022-06-08 03:23:35,323 >> Special tokens file saved in /disk/nfs/ostrom/s1970716/scrolls/baselines/outputs/facebook-bart-base_512_1_5e-05_4096_scrolls_qmsum_gas-judge-21/special_tokens_map.json
+2022-06-08 03:23:35 | INFO | __main__ | *** Evaluate ***
+[INFO|trainer.py:528] 2022-06-08 03:23:35,662 >> The following columns in the evaluation set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: length, not_valid_for_eval.
+[INFO|trainer.py:2324] 2022-06-08 03:23:35,665 >> ***** Running Evaluation *****
+[INFO|trainer.py:2326] 2022-06-08 03:23:35,665 >>   Num examples = 272
+[INFO|trainer.py:2329] 2022-06-08 03:23:35,665 >>   Batch size = 10
+100%|█████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [00:03<00:00,  7.27it/s]
