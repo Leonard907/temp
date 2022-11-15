@@ -40,10 +40,10 @@ if __name__ == '__main__':
                 eof_seq_no = seq_no
 
             receive_socket.sendto(ack_packet, clientAddress)
-            if eof_seq_no != -1 and receive_seq_count >= eof_seq_no:
+            if eof_seq_no != -1 and receive_seq_count > eof_seq_no:
                 # send more to avoid loss
                 for i in range(100):
-                    receive_socket.sendto(ack_packet, clientAddress)
-                with open('log', 'w') as logf:
-                    logf.write(str(seq_no))
+                    for j in range(window_size):
+                        ack_packet = (eof_seq_no - j).to_bytes(2, 'big')
+                        receive_socket.sendto(ack_packet, clientAddress)
                 break

@@ -39,6 +39,7 @@ if __name__ == '__main__':
             msg = header + data
             packets.append(msg)
             total_seq += 1
+            total_transferred += len(data)
 
     status = {n: WAIT for n in range(total_seq)}
 
@@ -80,7 +81,6 @@ if __name__ == '__main__':
                             if next_send < total_seq:
                                 send_socket.sendto(packets[next_send], dstAddress)
                                 status[next_send] = SENT
-                            total_transferred += len(packets[last_unack])
                             last_unack += 1
                             # terminate if all acked
                             if last_unack == total_seq:
@@ -113,4 +113,4 @@ if __name__ == '__main__':
                 elif status[i] == ACK:
                     timeout_socks[i % window_size] = retry_time
 
-    print(total_transferred / (1000 * (time.time() - start_time)))
+    print(int(total_transferred / (1000 * (time.time() - start_time))))

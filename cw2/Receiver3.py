@@ -19,7 +19,6 @@ if __name__ == '__main__':
             seq_no = int.from_bytes(data[:2], 'big')
             content = data[3:]
             if seq_no == receive_seq_count:
-                print('normal', receive_seq_count)
                 ack_packet = receive_seq_count.to_bytes(2, 'big')
                 receive_seq_count += 1
                 total_received += len(data[3:])
@@ -29,7 +28,6 @@ if __name__ == '__main__':
                         receive_socket.sendto(ack_packet, clientAddress)
                     sys.exit(0)
             else:
-                print('outoforder', receive_seq_count - 1, 'received', seq_no)
                 ack_packet = (receive_seq_count - 1).to_bytes(2, 'big')
 
             receive_socket.sendto(ack_packet, clientAddress)

@@ -8,7 +8,7 @@ if __name__ == '__main__':
     parser.add_argument('hostname')
     parser.add_argument('port', type=int)
     parser.add_argument('filename')
-    parser.add_argument('retry', type=int)
+    parser.add_argument('retry', type=float)
     parser.add_argument('window', type=int)
     args = parser.parse_args()
 
@@ -37,43 +37,40 @@ if __name__ == '__main__':
             header = bytearray(seq_no_b)
             header.append(is_eof)
             msg = header + data
-            # msg = seq_no_b + is_eof + data
             packets.append(msg)
             total_seq += 1
+            total_transferred += len(data)
 
     seq_ack = 0
 
     for i in range(window_size):
         if seq_ack + i == total_seq:
             break
-        print('start or retransmit', seq_ack + i)
         send_socket.sendto(packets[seq_ack + i], dstAddress)
 
     while running:
-        try:
-            readable, _, _ = select([send_socket], [], [], retry_time)
-            for sock in readable:
-                data, dstAddress = sock.recvfrom(2)
-                ack = int.from_bytes(data, 'big')
-                if ack == seq_ack:
-                    seq_ack += 1
-                    # send next packet
-                    if seq_ack + window_size <= total_seq:
-                        print('normal', ack)
-                        sock.sendto(packets[seq_ack + window_size - 1], dstAddress)
-                    if seq_ack == total_seq:
-                        running = False
-                        break
-                elif ack > seq_ack:
-                    seq_ack += (ack - seq_ack + 1)
-                    if seq_ack + window_size <= total_seq:
-                        print('receive > send', ack)
-                        sock.sendto(packets[seq_ack + window_size - 1], dstAddress)
-                else:
-                    print('receive < send', ack)
-        except:
-            print('timeout')
+        readable, writable, exceptional = select([send_socket], [], [], retry_time)
+        # timeout
+        if not (readable or writable or exceptional):
             for i in range(window_size):
                 if seq_ack + i == total_seq:
                     break
                 send_socket.sendto(packets[seq_ack + i], dstAddress)
+            continue
+        for sock in readable:
+            data, dstAddress = sock.recvfrom(2)
+            ack = int.from_bytes(data, 'big')
+            if ack == seq_ack:
+                if seq_ack + window_size < total_seq:
+                    sock.sendto(packets[seq_ack + window_size], dstAddress)
+                seq_ack += 1
+                # send next packet
+            elif ack > seq_ack:
+                # send packet of window
+                if seq_ack + window_size < total_seq:
+                    sock.sendto(packets[seq_ack + window_size], dstAddress)
+                seq_ack += (ack - seq_ack + 1)
+            if seq_ack == total_seq:
+                running = False
+                break
+    print(int(total_transferred / (1000 * (time.time() - start_time))))
