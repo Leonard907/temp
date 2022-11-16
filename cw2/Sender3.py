@@ -73,4 +73,4 @@ if __name__ == '__main__':
             if seq_ack == total_seq:
                 running = False
                 break
-    print(int(total_transferred / (1000 * (time.time() - start_time))))
+    print(int(total_transferred / (1024 * (time.time() - start_time))))

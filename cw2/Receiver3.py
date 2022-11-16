@@ -20,6 +20,7 @@ if __name__ == '__main__':
             content = data[3:]
             if seq_no == receive_seq_count:
                 ack_packet = receive_seq_count.to_bytes(2, 'big')
+                receive_socket.sendto(ack_packet, clientAddress)
                 receive_seq_count += 1
                 total_received += len(data[3:])
                 receive_file.write(content)
@@ -29,5 +30,5 @@ if __name__ == '__main__':
                     sys.exit(0)
             else:
                 ack_packet = (receive_seq_count - 1).to_bytes(2, 'big')
-
-            receive_socket.sendto(ack_packet, clientAddress)
+                if receive_seq_count > 0:
+                    receive_socket.sendto(ack_packet, clientAddress)

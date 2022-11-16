@@ -113,4 +113,4 @@ if __name__ == '__main__':
                 elif status[i] == ACK:
                     timeout_socks[i % window_size] = retry_time
 
-    print(int(total_transferred / (1000 * (time.time() - start_time))))
+    print(int(total_transferred / (1024 * (time.time() - start_time))))

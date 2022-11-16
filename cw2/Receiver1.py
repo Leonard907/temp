@@ -27,5 +27,4 @@ if __name__ == '__main__':
             data, clientAddress = receive_socket.recvfrom(1027)
             is_eof = data[2]
             if is_eof:
-                receive_socket.sendto(b'Transfer complete!', clientAddress)
                 sys.exit(0)

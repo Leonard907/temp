@@ -51,4 +51,4 @@ if __name__ == '__main__':
             except:
                 retransmit_time += 1
                 send_socket.sendto(packets[last_unack], (args.hostname, args.port))
-    print(retransmit_time, int(total_transferred / (1000 * (time.time() - start_time))))
+    print(retransmit_time, int(total_transferred / (1024 * (time.time() - start_time))))

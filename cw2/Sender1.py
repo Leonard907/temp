@@ -25,6 +25,4 @@ if __name__ == '__main__':
             time.sleep(0.01)
             if is_eof:
                 break
-        res, senderAddress = send_socket.recvfrom(1024)
-        print(str(res))
         send_socket.close()
