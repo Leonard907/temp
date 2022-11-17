@@ -49,6 +49,7 @@ if __name__ == '__main__':
         send_socket.sendto(packets[seq_ack + i], dstAddress)
 
     while running:
+        sock_start_time = time.time()
         readable, writable, exceptional = select([send_socket], [], [], retry_time)
         # timeout
         if not (readable or writable or exceptional):
@@ -56,6 +57,7 @@ if __name__ == '__main__':
                 if seq_ack + i == total_seq:
                     break
                 send_socket.sendto(packets[seq_ack + i], dstAddress)
+            retry_time = args.retry / 1000
             continue
         for sock in readable:
             data, dstAddress = sock.recvfrom(2)
@@ -64,12 +66,17 @@ if __name__ == '__main__':
                 if seq_ack + window_size < total_seq:
                     sock.sendto(packets[seq_ack + window_size], dstAddress)
                 seq_ack += 1
+                retry_time = args.retry / 1000
                 # send next packet
             elif ack > seq_ack:
                 # send packet of window
                 if seq_ack + window_size < total_seq:
                     sock.sendto(packets[seq_ack + window_size], dstAddress)
                 seq_ack += (ack - seq_ack + 1)
+                retry_time = args.retry / 1000
+            else:
+                # do not restart timer
+                retry_time -= (time.time() - sock_start_time)
             if seq_ack == total_seq:
                 running = False
                 break
