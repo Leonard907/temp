@@ -1,1 +1,0 @@
-{'Packet': {'protocols': [{'ethernet': {'dst': 'ff:ff:ff:ff:ff:ff', 'ethertype': 2054, 'src': '00:00:00:00:00:01'}}, {'arp': {'dst_ip': '10.0.0.10', 'dst_mac': '00:00:00:00:00:00', 'hlen': 6, 'hwtype': 1, 'opcode': 1, 'plen': 4, 'proto': 2048, 'src_ip': '10.0.0.1', 'src_mac': '00:00:00:00:00:01'}}]}}
